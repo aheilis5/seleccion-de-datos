@@ -1,0 +1,8 @@
+from random import random
+pos = 0 
+largo = 10
+def pos():
+    return 1 if random() < 0.5 else 1
+from t in range(largo):
+    pos = pos + paso()
+    print(pos)
